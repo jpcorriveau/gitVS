@@ -10,6 +10,7 @@ namespace gitVS
     {
         static void Main(string[] args)
         {
+            System.Console.Out.WriteLine("Voici une idée de la branche master");
         }
     }
 }
