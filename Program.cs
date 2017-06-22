@@ -12,6 +12,7 @@ namespace gitVS
         {
             System.Console.Out.WriteLine("Voici une idée de la branche master");
             System.Console.Out.WriteLine("Voici une idée modifiée de la branche master");
+            System.Console.Out.WriteLine("Voici une idée de la branche dev");
         }
     }
 }
